@@ -17,7 +17,7 @@ ImgDrive is a lightweight virtual CD/DVD/Blu-ray drive that enables to emulate u
 - Support up to 9 virtual drives at the same time
 - Translated to more than 23 languages
 - Does not require rebooting after installation
-- Runs on 32-bit and 64-bit Windows versions from <a href="v188.html">Windows XP</a> to Windows 11
+- Runs on 32-bit and 64-bit Windows versions from Windows XP to Windows 11
 - Supports image files: ASHDISC, CDI, PDI, BWT, B5T, B6T, MDX and UIF formats
 - Mount CUE+M4A as Audio CD
 - Mount CUE+TTA as Audio CD

@@ -1,7 +1,7 @@
 # Free vs. Pro Editions
 
 <table>
-	<tr><th>Features</th><th><a href="/imgdrivelite/">ImgDrive Lite</a></th><th>ImgDrive</th><th>ImgDrive Pro</th></tr>
+	<tr><th>Features</th><th><a href="https://www.yubsoft.com/imgdrivelite/">ImgDrive Lite</a></th><th>ImgDrive</th><th>ImgDrive Pro</th></tr>
 	<tr><td>Mount .ccd, .cue, .iso, .isz, .mds and .nrg images</td><td>✔</td><td>✔</td><td>✔</td></tr>
 	<tr><td>Mount CUE+WAV as Audio CD</td><td>✔</td><td>✔</td><td>✔</td></tr>
 	<tr><td>Mount CUE+APE as Audio CD</td><td>✔</td><td>✔</td><td>✔</td></tr>
@@ -34,5 +34,5 @@
 	<tr><td>Mount CUE+WV(WavPack) as Audio CD</td><td></td><td></td><td>✔</td></tr>
 	<tr><td>Support CUE sheet of Multi-Session CD images</td><td></td><td></td><td>✔</td></tr>
 	<tr><td>Emulate Blu-ray drive with AACS-Auth</td><td></td><td></td><td>✔</td></tr>
-	<tr><td>Price</td><td>Free</td><td>Free</td><td><a href="buy.html">Buy</a></td></tr>
+	<tr><td>Price</td><td>Free</td><td>Free</td><td><a href="https://www.yubsoft.com/imgdrive/buy.html">$9.9 USD</a></td></tr>
 </table>
